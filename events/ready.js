@@ -6,7 +6,7 @@ const { prefix } = require('../ayarlar.json')
 module.exports = client => {
   var degisenOynuyor = [
     
-    "discord.gg/javascript",
+    "Prefix !",
     "iyi kullanmalar!"
     
   ]
